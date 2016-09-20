@@ -1,4 +1,4 @@
-#calling the library
+
 library(readr)
 twal=read_csv("D:/walmart.csv")
 str(twal)
